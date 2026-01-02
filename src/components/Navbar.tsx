@@ -23,11 +23,6 @@ const Navbar = () => {
 
 	const navLinks = [
 		{ name: 'Home', path: '/' },
-		{ name: 'About', path: '/about' },
-		{ name: 'Services', path: '/services' },
-		{ name: 'Portfolio', path: '/portfolio' },
-		{ name: 'Blog', path: '/blog' },
-		{ name: 'Contact', path: '/contact' },
 		{ name: 'Conjugation Quiz', path: '/conjugation-quiz' },
 	];
 
@@ -44,7 +39,7 @@ const Navbar = () => {
 							<Code2 className="h-6 w-6 text-white" />
 						</div>
 						<span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-white to-white/60">
-							CreateVibe
+							AI Feature Incubator
 						</span>
 					</Link>
 
