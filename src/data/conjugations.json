@@ -1,0 +1,232 @@
+[
+	{
+		"infinitive": "parlare",
+		"tenses": {
+			"present": [
+				"parlo",
+				"parli",
+				"parla",
+				"parliamo",
+				"parlate",
+				"parlano"
+			],
+			"imperfect": [
+				"parlavo",
+				"parlavi",
+				"parlava",
+				"parlavamo",
+				"parlavate",
+				"parlavano"
+			],
+			"present_perfect": [
+				"ho/sono parlato"
+			],
+			"remote_past": [
+				"parlai",
+				"parlasti",
+				"parl\u00f2",
+				"parlammo",
+				"parlaste",
+				"parlarono"
+			],
+			"future": [
+				"parler\u00f2",
+				"parlerai",
+				"parler\u00e0",
+				"parleremo",
+				"parlerete",
+				"parleranno"
+			],
+			"conditional": [
+				"parlerei",
+				"parleresti",
+				"parlerebbe",
+				"parleremmo",
+				"parlereste",
+				"parlerebbero"
+			],
+			"present_subjunctive": [
+				"parli",
+				"parli",
+				"parli",
+				"parliamo",
+				"parliate",
+				"parlino"
+			],
+			"imperfect_subjunctive": [
+				"parlassi",
+				"parlassi",
+				"parlasse",
+				"parlassimo",
+				"parlaste",
+				"parlassero"
+			],
+			"imperative": [
+				"",
+				"parla",
+				"parli",
+				"parliamo",
+				"parlate",
+				"parlino"
+			],
+			"gerund": [
+				"parlando"
+			]
+		}
+	},
+	{
+		"infinitive": "credere",
+		"tenses": {
+			"present": [
+				"credo",
+				"credi",
+				"crede",
+				"crediamo",
+				"credete",
+				"credono"
+			],
+			"imperfect": [
+				"credevo",
+				"credevi",
+				"credeva",
+				"credevamo",
+				"credevate",
+				"credevano"
+			],
+			"present_perfect": [
+				"ho/sono creduto"
+			],
+			"remote_past": [
+				"credetti",
+				"credesti",
+				"credette",
+				"credemmo",
+				"credeste",
+				"credettero (-ei",
+				"",
+				"cred\u00e9",
+				"",
+				"",
+				"crederono)"
+			],
+			"future": [
+				"creder\u00f2",
+				"crederai",
+				"creder\u00e0",
+				"crederemo",
+				"crederete",
+				"crederanno"
+			],
+			"conditional": [
+				"crederei",
+				"crederesti",
+				"crederebbe",
+				"crederemmo",
+				"credereste",
+				"crederebbero"
+			],
+			"present_subjunctive": [
+				"creda",
+				"creda",
+				"creda",
+				"crediamo",
+				"crediate",
+				"credano"
+			],
+			"imperfect_subjunctive": [
+				"credessi",
+				"credessi",
+				"credesse",
+				"credessimo",
+				"credeste",
+				"credessero"
+			],
+			"imperative": [
+				"",
+				"credi",
+				"creda",
+				"crediamo",
+				"credete",
+				"credano"
+			],
+			"gerund": [
+				"credendo"
+			]
+		}
+	},
+	{
+		"infinitive": "dormire",
+		"tenses": {
+			"present": [
+				"dormo",
+				"dormi",
+				"dorme",
+				"dormiamo",
+				"dormite",
+				"dormono"
+			],
+			"imperfect": [
+				"dormivo",
+				"dormivi",
+				"dormiva",
+				"dormivamo",
+				"dormivate",
+				"dormivano"
+			],
+			"present_perfect": [
+				"ho/sono dormito"
+			],
+			"remote_past": [
+				"dormii",
+				"dormisti",
+				"dorm\u00ec",
+				"dormimmo",
+				"dormiste",
+				"dormirono"
+			],
+			"future": [
+				"dormir\u00f2",
+				"dormirai",
+				"dormir\u00e0",
+				"dormiremo",
+				"dormirete",
+				"dormiranno"
+			],
+			"conditional": [
+				"dormirei",
+				"dormiresti",
+				"dormirebbe",
+				"dormiremmo",
+				"dormireste",
+				"dormirebbero"
+			],
+			"present_subjunctive": [
+				"dorma",
+				"dorma",
+				"dorma",
+				"dormiamo",
+				"dormiate",
+				"dormano"
+			],
+			"imperfect_subjunctive": [
+				"dormissi",
+				"dormissi",
+				"dormisse",
+				"dormissimo",
+				"dormiste",
+				"dormissero"
+			],
+			"imperative": [
+				"",
+				"dormi",
+				"dorma",
+				"dormiamo",
+				"dormite",
+				"dormano"
+			],
+			"gerund": [
+				"dormendo"
+			]
+		}
+	}
+]
