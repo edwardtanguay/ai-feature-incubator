@@ -24,6 +24,7 @@ const Navbar = () => {
 	const navLinks = [
 		{ name: 'Home', path: '/' },
 		{ name: 'Conjugation Quiz', path: '/conjugation-quiz' },
+		{ name: 'About', path: '/about' },
 	];
 
 	return (

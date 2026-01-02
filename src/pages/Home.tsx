@@ -12,7 +12,6 @@ const Home = () => {
 				<li>when a feature is far enough developed, I port it to the project, and leave it here as an example of what can be done with AI</li>
 			</ul>
 			<Preview title="Verb Conjugation Quiz" link="/conjugation-quiz" description="I had a text file (see data/conjugations.txt) which I asked Antigravity/Gemini3Pro to convert to JSON and then make a page which tested the user giving him immediate feedback for each conjugation. It was finished in about 15 minutes, no adjustments necessary." image="demo-quiz-001.gif" />
-
 		</div>
 	);
 };
