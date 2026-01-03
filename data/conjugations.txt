@@ -53,7 +53,63 @@ CONJUGATION OVERVIEW
 		- IMSU: -issi, -issi, -isse, -issimo, -iste, -issero
 		- IPER: *, -i, -a, -iamo, -ite, -ano
 		- GERU: -endo
-- IRREGULAR
+- IRREGULAR -are
+	- stare
+		- PRES: sto, stai, sta, stiamo, state, stanno
+		- IMPE: stavo, stavi, stava, stavamo, stavate, stavano
+		- PRPE: sono stato/a
+		- PARE: stetti, stesti, stette, stemmo, steste, stettero
+		- FUTU: starò, starai, starà, staremo, starete, staranno
+		- COND: starei, staresti, starebbe, staremmo, stareste, starebbero
+		- PRSU: stia, stia, stia, stiamo, stiate, stiano
+		- IMSU: stessi, stessi, stesse, stessimo, steste, stessero
+		- IPER: *, sta'/stai, stia, stiamo, state, stiano
+		- GERU: stando
+	- fare
+		- PRES: faccio, fai, fa, facciamo, fate, fanno
+		- IMPE: facevo, facevi, faceva, facevamo, facevate, facevano
+		- PRPE: ho fatto
+		- PARE: feci, facesti, fece, facemmo, faceste, fecero
+		- FUTU: farò, farai, farà, faremo, farete, faranno
+		- COND: farei, faresti, farebbe, faremmo, fareste, farebbero
+		- PRSU: faccia, faccia, faccia, facciamo, facciate, facciano
+		- IMSU: facessi, facessi, facesse, facessimo, faceste, facessero
+		- IPER: *, fa'/fai, faccia, facciamo, fate, facciano
+		- GERU: facendo
+	- andare
+		- PRES: vado, vai, va, andiamo, andate, vanno
+		- IMPE: andavo, andavi, andava, andavamo, andavate, andavano
+		- PRPE: sono andato/a
+		- PARE: andai, andasti, andò, andammo, andaste, andarono
+		- FUTU: andrò, andrai, andrà, andremo, andrete, andranno
+		- COND: andrei, andresti, andrebbe, andremmo, andreste, andrebbero
+		- PRSU: vada, vada, vada, andiamo, andiate, vadano
+		- IMSU: andassi, andassi, andasse, andassimo, andaste, andassero
+		- IPER: *, va'/vai, vada, andiamo, andate, vadano
+		- GERU: andando
+	- dare
+		- PRES: do, dai, dà, diamo, date, danno
+		- IMPE: davo, davi, dava, davamo, davate, davano
+		- PRPE: ho dato
+		- PARE: diedi/detti, desti, diede/dette, demmo, deste, diedero/dettero
+		- FUTU: darò, darai, darà, daremo, darete, daranno
+		- COND: darei, daresti, darebbe, daremmo, dareste, darebbero
+		- PRSU: dia, dia, dia, diamo, diate, diano
+		- IMSU: dessi, dessi, desse, dessimo, deste, dessero
+		- IPER: *, da'/dai, dia, diamo, date, diano
+		- GERU: dando
+- IRREGULAR -ere
+	- avere
+		- PRES: ho, hai, ha, abbiamo, avete, hanno
+		- IMPE: avevo, avevi, aveva, avevamo, avevate, avevano
+		- PRPE: ho avuto
+		- PARE: ebbi, avesti, ebbe, avemmo, aveste, ebbero
+		- FUTU: avrò, avrai, avrà, avremo, avrete, avranno
+		- COND: avrei, avresti, avrebbe, avremmo, avreste, avrebbero
+		- PRSU: abbia, abbia, abbia, abbiamo, abbiate, abbiano
+		- IMSU: avessi, avessi, avesse, avessimo, aveste, avessero
+		- IPER: *, abbi, abbia, abbiamo, abbiate, abbiano
+		- GERU: avendo
 	- essere
 		- PRES: sono, sei, è, siamo, siete, sono
 		- IMPE: ero, eri, era, eravamo, eravate, erano
@@ -65,3 +121,47 @@ CONJUGATION OVERVIEW
 		- IMSU: fossi, fossi, fosse, fossimo, foste, fossero
 		- IPER: *, sii, sia, siamo, siate, siano
 		- GERU: essendo
+	- volere
+		- PRES: voglio, vuoi, vuole, vogliamo, volete, vogliono
+		- IMPE: volevo, volevi, voleva, volevamo, volevate, volevano
+		- PRPE: ho voluto
+		- PARE: volli, volesti, volle, volemmo, voleste, vollero
+		- FUTU: vorrò, vorrai, vorrà, vorremo, vorrete, vorranno
+		- COND: vorrei, vorresti, vorrebbe, vorremmo, vorreste, vorrebbero
+		- PRSU: voglia, voglia, voglia, vogliamo, vogliate, vogliano
+		- IMSU: volessi, volessi, volesse, volessimo, voleste, volessero
+		- IPER: *, vogli, voglia, vogliamo, vogliate, vogliano
+		- GERU: volendo
+	- dovere
+		- PRES: devo, devi, deve, dobbiamo, dovete, devono
+		- IMPE: dovevo, dovevi, doveva, dovevamo, dovevate, dovevano
+		- PRPE: ho dovuto
+		- PARE: dovei/dovetti, dovesti, dové/dovette, dovemmo, doveste, doverono/dovettero
+		- FUTU: dovrò, dovrai, dovrà, dovremo, dovrete, dovranno
+		- COND: dovrei, dovresti, dovrebbe, dovremmo, dovreste, dovrebbero
+		- PRSU: deva/debba, deva/debba, deva/debba, dobbiamo, dobbiate, devano/debbano
+		- IMSU: dovessi, dovessi, dovesse, dovessimo, doveste, dovessero
+		- IPER: *, devi, deva/debba, dobbiamo, dovete, devano/debbano
+		- GERU: dovendo
+	- potere
+		- PRES: posso, puoi, può, possiamo, potete, possono
+		- IMPE: potevo, potevi, poteva, potevamo, potevate, potevano
+		- PRPE: ho potuto
+		- PARE: potei/potetti, potesti, poté/potette, potemmo, poteste, poterono/potettero
+		- FUTU: potrò, potrai, potrà, potremo, potrete, potranno
+		- COND: potrei, potresti, potrebbe, potremmo, potreste, potrebbero
+		- PRSU: possa, possa, possa, possiamo, possiate, possano
+		- IMSU: potessi, potessi, potesse, potessimo, poteste, potessero
+		- IPER: *, puoi, possa, possiamo, potete, possano
+		- GERU: potendo
+	- sapere
+		- PRES: so, sai, sa, sappiamo, sapete, sanno
+		- IMPE: sapevo, sapevi, sapeva, sapevamo, sapevate, sapevano
+		- PRPE: ho saputo
+		- PARE: seppi, sapesti, seppe, sapemmo, sapeste, seppero
+		- FUTU: saprò, saprai, saprà, sapremo, saprete, sapranno
+		- COND: saprei, sapresti, saprebbe, sapremmo, sapreste, saprebbero
+		- PRSU: sappia, sappia, sappia, sappiamo, sappiate, sappiano
+		- IMSU: sapessi, sapessi, sapesse, sapessimo, sapeste, sapessero
+		- IPER: *, sappi, sappia, sappiamo, sappiate, sappiano
+		- GERU: sapendo
