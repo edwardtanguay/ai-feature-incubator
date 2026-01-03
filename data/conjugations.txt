@@ -165,3 +165,37 @@ CONJUGATION OVERVIEW
 		- IMSU: sapessi, sapessi, sapesse, sapessimo, sapeste, sapessero
 		- IPER: *, sappi, sappia, sappiamo, sappiate, sappiano
 		- GERU: sapendo
+- IRREGULAR -ire
+	- venire
+		- PRES: vengo, vieni, viene, veniamo, venite, vengono
+		- IMPE: venivo, venivi, veniva, venivamo, venivate, venivano
+		- PRPE: sono venuto/a
+		- PARE: venni, venisti, venne, venimmo, veniste, vennero
+		- FUTU: verrò, verrai, verrà, verremo, verrete, verranno
+		- COND: verrei, verresti, verrebbe, verremmo, verreste, verrebbero
+		- PRSU: venga, venga, venga, veniamo, veniate, vengano
+		- IMSU: venissi, venissi, venisse, venissimo, veniste, venissero
+		- IPER: *, vieni, venga, veniamo, venite, vengano
+		- GERU: venendo
+	- dire
+		- PRES: dico, dici, dice, diciamo, dite, dicono
+		- IMPE: dicevo, dicevi, diceva, dicevamo, dicevate, dicevano
+		- PRPE: ho detto
+		- PARE: dissi, dicesti, disse, dicemmo, diceste, dissero
+		- FUTU: dirò, dirai, dirà, diremo, direte, diranno
+		- COND: direi, diresti, direbbe, diremmo, direste, direbbero
+		- PRSU: dica, dica, dica, diciamo, diciate, dicano
+		- IMSU: dicessi, dicessi, dicesse, dicessimo, diceste, dicessero
+		- IPER: *, di', dica, diciamo, dite, dicano
+		- GERU: dicendo
+	- uscire
+		- PRES: esco, esci, esce, usciamo, uscite, escono
+		- IMPE: uscivo, uscivi, usciva, uscivamo, uscivate, uscivano
+		- PRPE: sono uscito/a
+		- PARE: uscii, uscisti, uscì, uscimmo, usciste, uscirono
+		- FUTU: uscirò, uscirai, uscirà, usciremo, uscirete, usciranno
+		- COND: uscirei, usciresti, uscirebbe, usciremmo, uscireste, uscirebbero
+		- PRSU: esca, esca, esca, usciamo, usciate, escano
+		- IMSU: uscissi, uscissi, uscisse, uscissimo, usciste, uscissero
+		- IPER: *, esci, esca, usciamo, uscite, escano
+		- GERU: uscendo
