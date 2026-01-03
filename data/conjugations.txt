@@ -19,36 +19,38 @@ CONJUGATION OVERVIEW
 		- 4: noi
 		- 5: voi
 		- 6: loro, Loro
-- ARE (parlare)
-	- PRES: -o, -i, -a, -iamo, -ate, -ano
-	- IMPE: -avo, -avi, -ava, -avamo, -avate, -avano
-	- PRPE: ho/sono -ato
-	- PARE: -ai, -asti, -ò, -ammo, -aste, -arono	
-	- FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno
-	- COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
-	- PRSU: -i, -i, -i, -iamo, -iate, -ino
-	- IMSU: -assi, -assi, -asse, -assimo, -aste, -assero
-	- IPER: *, -a, -i, -iamo, -ate, -ino
-	- GERU: -ando	
-- ERE (credere)
-	- PRES: -o, -i, -e, -iamo, -ete, -ono
-	- IMPE: -evo, -evi, -eva, -evamo, -evate, -evano
-	- PRPE: ho/sono -uto
-	- PARE: etti, -esti, ette, -emmo, -este, ettero (-ei, *, -é, *, *, -erono)
-	- FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno
-	- COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
-	- PRSU: -a, -a, -a, -iamo, -iate, -ano
-	- IMSU: -essi, -essi, -esse, -essimo, -este, -essero
-	- IPER: *, -i, -a, -iamo, -ete, -ano
-	- GERU: -endo
-- IRE (dormire)
-	- PRES: -o, -i, -e, -iamo, -ite, -ono
-	- IMPE: -ivo, -ivi, -iva, -ivamo, -ivate, -ivano
-	- PRPE: ho/sono -ito
-	- PARE: -ii, -isti, -ì, -immo, -iste, -irono
-	- FUTU: -irò, -irai, -irà, -iremo, -irete, -iranno
-	- COND: -irei, -iresti, -irebbe, -iremmo, -ireste, -irebbero
-	- PRSU: -a, -a, -a, -iamo, -iate, -ano
-	- IMSU: -issi, -issi, -isse, -issimo, -iste, -issero
-	- IPER: *, -i, -a, -iamo, -ite, -ano
-	- GERU: -endo
+- REGULAR	
+	- parlare
+		- PRES: -o, -i, -a, -iamo, -ate, -ano
+		- IMPE: -avo, -avi, -ava, -avamo, -avate, -avano
+		- PRPE: ho/sono -ato
+		- PARE: -ai, -asti, -ò, -ammo, -aste, -arono	
+		- FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno
+		- COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
+		- PRSU: -i, -i, -i, -iamo, -iate, -ino
+		- IMSU: -assi, -assi, -asse, -assimo, -aste, -assero
+		- IPER: *, -a, -i, -iamo, -ate, -ino
+		- GERU: -ando	
+	- credere
+		- PRES: -o, -i, -e, -iamo, -ete, -ono
+		- IMPE: -evo, -evi, -eva, -evamo, -evate, -evano
+		- PRPE: ho/sono -uto
+		- PARE: etti, -esti, ette, -emmo, -este, ettero (-ei, *, -é, *, *, -erono)
+		- FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno
+		- COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
+		- PRSU: -a, -a, -a, -iamo, -iate, -ano
+		- IMSU: -essi, -essi, -esse, -essimo, -este, -essero
+		- IPER: *, -i, -a, -iamo, -ete, -ano
+		- GERU: -endo
+	- dormire
+		- PRES: -o, -i, -e, -iamo, -ite, -ono
+		- IMPE: -ivo, -ivi, -iva, -ivamo, -ivate, -ivano
+		- PRPE: ho/sono -ito
+		- PARE: -ii, -isti, -ì, -immo, -iste, -irono
+		- FUTU: -irò, -irai, -irà, -iremo, -irete, -iranno
+		- COND: -irei, -iresti, -irebbe, -iremmo, -ireste, -irebbero
+		- PRSU: -a, -a, -a, -iamo, -iate, -ano
+		- IMSU: -issi, -issi, -isse, -issimo, -iste, -issero
+		- IPER: *, -i, -a, -iamo, -ite, -ano
+		- GERU: -endo
+- IRREGULAR
