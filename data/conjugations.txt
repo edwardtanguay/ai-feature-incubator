@@ -54,3 +54,14 @@ CONJUGATION OVERVIEW
 		- IPER: *, -i, -a, -iamo, -ite, -ano
 		- GERU: -endo
 - IRREGULAR
+	- essere
+		- PRES: sono, sei, è, siamo, siete, sono
+		- IMPE: ero, eri, era, eravamo, eravate, erano
+		- PRPE: sono stato/a
+		- PARE: fui, fosti, fu, fummo, foste, furono
+		- FUTU: sarò, sarai, sarà, saremo, sarete, saranno
+		- COND: sarei, saresti, sarebbe, saremmo, sareste, sarebbero
+		- PRSU: sia, sia, sia, siamo, siate, siano
+		- IMSU: fossi, fossi, fosse, fossimo, foste, fossero
+		- IPER: *, sii, sia, siamo, siate, siano
+		- GERU: essendo
